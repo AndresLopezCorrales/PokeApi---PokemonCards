@@ -40,6 +40,7 @@ public class PokemonAPIProyectoFinal { // clase main
         keepgoing = false;
         JOptionPane.showMessageDialog(null, "Bye");
         System.out.println("Bye");
+        System.exit(0);
     }
 } while (keepgoing);
         
